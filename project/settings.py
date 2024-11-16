@@ -47,7 +47,8 @@ INSTALLED_APPS = [
     'users',
     'products',
     'seasonality',
-    'badges'
+    'badges',
+    'categories'
 ]
 
 MIDDLEWARE = [
