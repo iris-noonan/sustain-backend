@@ -46,7 +46,8 @@ INSTALLED_APPS = [
     'rest_framework_simplejwt',
     'users',
     'products',
-    'seasonality'
+    'seasonality',
+    'badges'
 ]
 
 MIDDLEWARE = [

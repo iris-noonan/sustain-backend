@@ -1,0 +1,10 @@
+[
+{
+  "model": "badges.badge",
+  "pk": 1,
+  "fields": {
+    "name": "Biodegradable",
+    "image": "https://cdn-icons-png.flaticon.com/512/5670/5670679.png"
+  }
+}
+]
