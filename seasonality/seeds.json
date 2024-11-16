@@ -1,0 +1,86 @@
+[
+  {
+    "model": "seasonality.season",
+    "pk": 1,
+    "fields": {
+      "month": 1
+    }
+  },
+  {
+    "model": "seasonality.season",
+    "pk": 2,
+    "fields": {
+      "month": 2
+    }
+  },
+  {
+    "model": "seasonality.season",
+    "pk": 3,
+    "fields": {
+      "month": 3
+    }
+  },
+  {
+    "model": "seasonality.season",
+    "pk": 4,
+    "fields": {
+      "month": 4
+    }
+  },
+  {
+    "model": "seasonality.season",
+    "pk": 5,
+    "fields": {
+      "month": 5
+    }
+  },
+  {
+    "model": "seasonality.season",
+    "pk": 6,
+    "fields": {
+      "month": 6
+    }
+  },
+  {
+    "model": "seasonality.season",
+    "pk": 7,
+    "fields": {
+      "month": 7
+    }
+  },
+  {
+    "model": "seasonality.season",
+    "pk": 8,
+    "fields": {
+      "month": 8
+    }
+  },
+  {
+    "model": "seasonality.season",
+    "pk": 9,
+    "fields": {
+      "month": 9
+    }
+  },
+  {
+    "model": "seasonality.season",
+    "pk": 10,
+    "fields": {
+      "month": 10
+    }
+  },
+  {
+    "model": "seasonality.season",
+    "pk": 11,
+    "fields": {
+      "month": 11
+    }
+  },
+  {
+    "model": "seasonality.season",
+    "pk": 12,
+    "fields": {
+      "month": 12
+    }
+  }
+]
