@@ -1,0 +1,14 @@
+Create me 10 producst in JSON format that conform to the following format. pk should start from 1 and increment, with each being unique. The field should stay the same for each:
+
+{
+  "model": "products.product",
+  "pk": 1,
+  "fields": {
+    "name": "Pink Lady Apple",
+    "description": "Pink Lady and Honeycrisp apples have fascinating stories behind their creation. Both varieties were bred through careful selection and crossbreeding to achieve their distinct traits. The Pink Lady apple, also known as Cripps Pink, originated in Australia in the 1970s, whereas Honeycrisp apples were developed at the University of Minnesota and introduced to the market in the 1990s.",
+    "photo": "https://waapple.org/wp-content/uploads/2021/06/Variety_Cripps-Pink-transparent.png",
+    "created_at": "2024-11-16T15:05:01.238Z",
+    "updated_at": "2024-11-16T15:06:46.650Z",
+    "owner": 2
+  }
+}

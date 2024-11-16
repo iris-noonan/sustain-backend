@@ -1,0 +1,122 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "Pink Lady Apple",
+      "description": "Pink Lady and Honeycrisp apples have fascinating stories behind their creation. Both varieties were bred through careful selection and crossbreeding to achieve their distinct traits. The Pink Lady apple, also known as Cripps Pink, originated in Australia in the 1970s, whereas Honeycrisp apples were developed at the University of Minnesota and introduced to the market in the 1990s.",
+      "photo": "https://waapple.org/wp-content/uploads/2021/06/Variety_Cripps-Pink-transparent.png",
+      "created_at": "2024-11-16T15:05:01.238Z",
+      "updated_at": "2024-11-16T15:06:46.650Z",
+      "owner": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "Honeycrisp Apple",
+      "description": "Honeycrisp apples are known for their balance of sweetness and tartness, with a crisp texture and juicy flesh. First cultivated in Minnesota, these apples have become a favorite for snacking and baking alike.",
+      "photo": "https://example.com/photos/honeycrisp.png",
+      "created_at": "2024-11-16T15:10:01.238Z",
+      "updated_at": "2024-11-16T15:12:46.650Z",
+      "owner": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "Granny Smith Apple",
+      "description": "The Granny Smith apple, originating from Australia, is renowned for its tartness and firm texture. A popular choice for pies and crisps, this variety also serves well as a fresh snack.",
+      "photo": "https://example.com/photos/grannysmith.png",
+      "created_at": "2024-11-16T15:15:01.238Z",
+      "updated_at": "2024-11-16T15:17:46.650Z",
+      "owner": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "Fuji Apple",
+      "description": "Fuji apples, developed in Japan, are known for their sweet flavor and dense, crisp texture. They are often used in salads, desserts, and juices.",
+      "photo": "https://example.com/photos/fuji.png",
+      "created_at": "2024-11-16T15:20:01.238Z",
+      "updated_at": "2024-11-16T15:22:46.650Z",
+      "owner": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Golden Delicious Apple",
+      "description": "Golden Delicious apples are sweet, juicy, and mildly tart. They have a smooth texture and are commonly used in desserts or enjoyed fresh.",
+      "photo": "https://example.com/photos/golden-delicious.png",
+      "created_at": "2024-11-16T15:25:01.238Z",
+      "updated_at": "2024-11-16T15:27:46.650Z",
+      "owner": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "Gala Apple",
+      "description": "Gala apples are small, sweet, and aromatic. Originally from New Zealand, they are perfect for snacking and salads.",
+      "photo": "https://example.com/photos/gala.png",
+      "created_at": "2024-11-16T15:30:01.238Z",
+      "updated_at": "2024-11-16T15:32:46.650Z",
+      "owner": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+      "name": "Braeburn Apple",
+      "description": "Braeburn apples are sweet-tart with a firm texture, ideal for baking and cooking. They originated in New Zealand and are popular in both fresh and cooked dishes.",
+      "photo": "https://example.com/photos/braeburn.png",
+      "created_at": "2024-11-16T15:35:01.238Z",
+      "updated_at": "2024-11-16T15:37:46.650Z",
+      "owner": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+      "name": "Empire Apple",
+      "description": "Empire apples are a cross between Red Delicious and McIntosh varieties. They offer a sweet and slightly tart flavor, with a firm texture that makes them versatile for snacking or baking.",
+      "photo": "https://example.com/photos/empire.png",
+      "created_at": "2024-11-16T15:40:01.238Z",
+      "updated_at": "2024-11-16T15:42:46.650Z",
+      "owner": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+      "name": "McIntosh Apple",
+      "description": "McIntosh apples are soft, juicy, and mildly tart. Known for their tender texture, they are ideal for applesauce and pies.",
+      "photo": "https://example.com/photos/mcintosh.png",
+      "created_at": "2024-11-16T15:45:01.238Z",
+      "updated_at": "2024-11-16T15:47:46.650Z",
+      "owner": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+      "name": "Jonagold Apple",
+      "description": "Jonagold apples are a hybrid of Jonathan and Golden Delicious. They are known for their sweet-tart flavor and are excellent for snacking, baking, or making cider.",
+      "photo": "https://example.com/photos/jonagold.png",
+      "created_at": "2024-11-16T15:50:01.238Z",
+      "updated_at": "2024-11-16T15:52:46.650Z",
+      "owner": 2
+    }
+  }
+]
