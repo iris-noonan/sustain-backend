@@ -12,21 +12,21 @@ class Product(models.Model):
         related_name='owned_products', # the name for this relationship on the foreign object
         on_delete=models.CASCADE # This selection will ensure this propert is deleted if the owner is deleted, therefore not leaving orphans
     )
-    # seasonality = models.ManyToManyField(
-    #     to='seasonality.Season',
-    #     related_name='products',
-    #     blank=True # Allows us to not specify this field on creation of a Product
-    # )
-    # badges = models.ManyToManyField(
-    #     to='badges.Badge',
-    #     related_name='products',
-    #     blank=True # Allows us to not specify this field on creation of a Product
-    # )
-    # categories = models.ManyToManyField(
-    #     to='categories.Category',
-    #     related_name='products',
-    #     blank=True # Allows us to not specify this field on creation of a Product
-    # )
+    seasonality = models.ManyToManyField(
+        to='seasonality.Season',
+        related_name='products',
+        blank=True # Allows us to not specify this field on creation of a Product
+    )
+    badges = models.ManyToManyField(
+        to='badges.Badge',
+        related_name='products',
+        blank=True # Allows us to not specify this field on creation of a Product
+    )
+    categories = models.ManyToManyField(
+        to='categories.Category',
+        related_name='products',
+        blank=True # Allows us to not specify this field on creation of a Product
+    )
 
     def __str__(self):
         return self.name
