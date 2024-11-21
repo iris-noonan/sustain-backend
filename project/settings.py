@@ -31,9 +31,9 @@ SECRET_KEY = getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False if getenv('ENVIRONMENT') == 'production' else True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'sustain-prod-4686c38597f1.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'sustain-prod.netlify.app', 'sustain-prod-4686c38597f1.herokuapp.com']
 
-CORS_ALLOWED_ORIGINS = ['http://localhost:5173']
+CORS_ALLOWED_ORIGINS = ['http://localhost:5173', 'https://sustain-prod.netlify.app']
 
 CSRF_TRUSTED_ORIGINS = [
     'https://sustain-prod-4686c38597f1.herokuapp.com'
