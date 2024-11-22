@@ -4,7 +4,39 @@
   "pk": 1,
   "fields": {
     "name": "Biodegradable",
-    "image": "https://cdn-icons-png.flaticon.com/512/5670/5670679.png"
+    "image": ""
+  }
+},
+{
+  "model": "badges.badge",
+  "pk": 2,
+  "fields": {
+    "name": "Cruelty Free",
+    "image": ""
+  }
+},
+{
+  "model": "badges.badge",
+  "pk": 3,
+  "fields": {
+    "name": "Carbon Neutral",
+    "image": ""
+  }
+},
+{
+  "model": "badges.badge",
+  "pk": 4,
+  "fields": {
+    "name": "Animal Welfare",
+    "image": ""
+  }
+},
+{
+  "model": "badges.badge",
+  "pk": 5,
+  "fields": {
+    "name": "Ethical",
+    "image": ""
   }
 }
 ]

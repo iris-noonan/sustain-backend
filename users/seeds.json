@@ -13,7 +13,7 @@
     "is_active": true,
     "date_joined": "2024-11-14T16:12:06.301Z",
     "username": "iris",
-    "admin": false,
+    "admin": true,
     "groups": [],
     "user_permissions": []
   }
